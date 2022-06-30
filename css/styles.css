@@ -54,11 +54,7 @@ body {
   background-color: rgba(255, 255, 255, 0);
   font-size: 30px;
   font-weight: bold;
-}
-
-span {
-  background-color: #fda052;
-  opacity: 90%;
+  line-height: 45px;
 }
 
 .glava-title {
@@ -66,48 +62,57 @@ span {
   font-weight: bold;
 }
 
-.g12 div {
+.g12 div,
+.g1g2 {
   background-color: #c98862;
-  opacity: 90%;
+  opacity: 95%;
 }
-.g34 div {
+.g34 div,
+.g3g4 {
   background-color: #d97cf5;
-  opacity: 90%;
+  opacity: 95%;
 }
 
-.g56 div {
-  background-color: #fda052;
-  opacity: 90%;
+.g56 div,
+.g5g6 {
+  background-color: #a77db3;
+  opacity: 95%;
 }
 
-.g78 div {
+.g78 div,
+.g7g8 {
   background-color: #ec9ac0;
-  opacity: 90%;
+  opacity: 95%;
 }
 
-.g910 div {
-  background-color: #97d17a;
-  opacity: 90%;
+.g910 div,
+.g9g10 {
+  background-color: #fda052;
+  opacity: 95%;
 }
 
-.g1112 div {
+.g1112 div,
+.g11g12 {
   background-color: #bab721;
-  opacity: 90%;
+  opacity: 95%;
 }
 
-.g1314 div {
+.g1314 div,
+.g13g14 {
   background-color: #bb5679;
-  opacity: 90%;
+  opacity: 95%;
 }
 
-.g1516 div {
+.g1516 div,
+.g15g16 {
   background-color: #3eaa94;
-  opacity: 90%;
+  opacity: 95%;
 }
 
-.g1718 div {
+.g1718 div,
+.g17g18 {
   background-color: #60eb8c;
-  opacity: 90%;
+  opacity: 95%;
 }
 
 .title {
