@@ -7,7 +7,7 @@ body {
 .background {
   background-image: url(/img/backgr.jpg);
   width: 4600px;
-  height: 2500px;
+  height: 2600px;
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -15,7 +15,7 @@ body {
 .bloc {
   width: 750px;
   height: 1100px;
-  /* background-color: aqua; */
+
   margin: 100px 100px 100px 100px;
 }
 
@@ -52,6 +52,13 @@ body {
 
 .hide {
   background-color: rgba(255, 255, 255, 0);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+span {
+  background-color: #fda052;
+  opacity: 90%;
 }
 
 .glava-title {
@@ -61,37 +68,46 @@ body {
 
 .g12 div {
   background-color: #c98862;
+  opacity: 90%;
 }
 .g34 div {
   background-color: #d97cf5;
+  opacity: 90%;
 }
 
 .g56 div {
   background-color: #fda052;
+  opacity: 90%;
 }
 
 .g78 div {
   background-color: #ec9ac0;
+  opacity: 90%;
 }
 
 .g910 div {
   background-color: #97d17a;
+  opacity: 90%;
 }
 
 .g1112 div {
   background-color: #bab721;
+  opacity: 90%;
 }
 
 .g1314 div {
   background-color: #bb5679;
+  opacity: 90%;
 }
 
 .g1516 div {
   background-color: #3eaa94;
+  opacity: 90%;
 }
 
 .g1718 div {
   background-color: #60eb8c;
+  opacity: 90%;
 }
 
 .title {
